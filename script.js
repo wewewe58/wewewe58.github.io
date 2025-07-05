@@ -1,14 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Массив с данными фотографий
     const photos = [
-        { src: 'https://example.com/photo1.jpg', title: 'Горный пейзаж' },
-        { src: 'https://example.com/photo2.jpg', title: 'Море на закате' },
-        { src: 'https://example.com/photo3.jpg', title: 'Лесная тропа' },
-        { src: 'https://example.com/photo4.jpg', title: 'Город ночью' },
-        { src: 'https://example.com/photo5.jpg', title: 'Цветущее поле' },
-        { src: 'https://example.com/photo6.jpg', title: 'Архитектура' },
-        { src: 'https://example.com/photo7.jpg', title: 'Портрет' },
-        { src: 'https://example.com/photo8.jpg', title: 'Животные' }
+        { src: 'img/photo1.jpg', title: 'Горный пейзаж' },
+        { src: 'img/photo2.jpg', title: 'Море на закате' },
     ];
 
     const gallery = document.querySelector('.gallery');
