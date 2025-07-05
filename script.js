@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Массив с данными фотографий
     const photos = [
         { src: 'img/photo1.jpg', title: 'Горный пейзаж' },
-        { src: 'img/photo2.jpg', title: 'Море на закате' },
+        { src: 'img/photo2.jpg.JPG', title: 'Море на закате' },
     ];
 
     const gallery = document.querySelector('.gallery');
