@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Массив с данными фотографий
     const photos = [
-        { src: 'img/pic1.jpg', title: 'dog' },
+        { src: 'img/pic1.png', title: 'dog' },
         { src: 'img/pic2.png', title: 'doog' },
         { src: 'img/pic3.png', title: 'dogs' },
         { src: 'img/pic4.png', title: 'dogy' },
