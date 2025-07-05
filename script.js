@@ -1,8 +1,11 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Массив с данными фотографий
     const photos = [
-        { src: 'img/photo1.jpg', title: 'Горный пейзаж' },
-        { src: 'img/photo2.png', title: 'Море на закате' },
+        { src: 'img/pic1.jpg', title: 'dog' },
+        { src: 'img/pic2.png', title: 'doog' },
+        { src: 'img/pic3.png', title: 'dogs' },
+        { src: 'img/pic4.png', title: 'dogy' },
+        { src: 'img/pic5.png', title: 'doge' },
     ];
 
     const gallery = document.querySelector('.gallery');
